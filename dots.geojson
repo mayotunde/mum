@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "kaduna", "region": "NW" }, "geometry": { "type": "Point", "coordinates": [ 7.970671585000057, 10.56053377 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "niger", "region": "NC" }, "geometry": { "type": "Point", "coordinates": [ 6.184663570000057, 10.001278735 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "benue", "region": "NC" }, "geometry": { "type": "Point", "coordinates": [ 7.934590615000056, 8.68432333 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Kogi", "region": "NC" }, "geometry": { "type": "Point", "coordinates": [ 6.545473270000056, 7.89054199 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "kwara", "region": "NC" }, "geometry": { "type": "Point", "coordinates": [ 4.669262830000056, 8.79256624 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "enugu", "region": "SE" }, "geometry": { "type": "Point", "coordinates": [ 7.447497520000057, 6.5555461 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "yobe", "region": "NE" }, "geometry": { "type": "Point", "coordinates": [ 11.542687615000057, 12.130055965 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "oyo", "region": "SW" }, "geometry": { "type": "Point", "coordinates": [ 3.352307425000056, 8.10702781 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "rivers", "region": "SS" }, "geometry": { "type": "Point", "coordinates": [ 7.772226250000056, 4.85974051 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "taraba", "region": "NE" }, "geometry": { "type": "Point", "coordinates": [ 10.821068215000057, 8.088987325 ] } }
+]
+}
